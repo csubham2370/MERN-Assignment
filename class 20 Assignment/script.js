@@ -1,5 +1,5 @@
 
-    alert("Welcome to the page!");
+   
 
  function addToBag() {
         alert("Added to Bag!");
