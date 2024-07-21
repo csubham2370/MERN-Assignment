@@ -40,3 +40,18 @@ body{
 
 
 }
+
+#user{
+  margin-top: 24px;
+  font-weight: bold;
+}
+
+#com{
+  margin-top: 6px;
+  font-weight: bold;
+}
+
+#res{
+  margin-top: 6px;
+  font-weight: bold;
+}
